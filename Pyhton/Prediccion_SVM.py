@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn import svm
 import warnings
 warnings.filterwarnings('ignore')
-datos = pd.read_csv('D:/MASTER/Chicago/datos_num.csv')
+datos = pd.read_csv('D:/MASTER/Chicago/datos_num2.csv')
 datos=datos.drop(datos.columns[0], axis=1)
 datos=datos.loc[0:100000]
 inicio=time.time()
