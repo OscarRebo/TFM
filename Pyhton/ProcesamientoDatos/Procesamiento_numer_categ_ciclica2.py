@@ -64,4 +64,5 @@ datos['Primary Type'] = pd.factorize(datos["Primary Type"])[0]
 datos['Domestic'] = pd.factorize(datos["Domestic"])[0] 
 datos['Arrest'] = pd.factorize(datos["Arrest"])[0] 
 datos=datos.drop(["Fecha"],axis=1)
+datos=datos.drop(datos.columns[0], axis=1)
 datos.to_csv("D:/MASTER/Chicago/datos_num2.csv")
