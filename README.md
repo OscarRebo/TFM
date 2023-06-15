@@ -6,7 +6,7 @@
 
                 MÁSTER OFICIAL EN ANÁLISIS INTELIGENTE DE DATOS MASIVOS (BIG DATA)
 
-Los programas se han ejecuta en una ruta especifica por lo que para su correcto funcionamiento hay que cambiarla.
+Los programas se han ejecutado en una ruta especifica por lo que para su correcto funcionamiento hay que cambiarla.
 
 Los pasos a seguir son:
 
@@ -14,5 +14,5 @@ Los pasos a seguir son:
 
 2- Carpeta Pyhton-> ProcesamientoDatos, alli se encuentran los diferentes procedimentos de limpieza realizados y la union de los 8 datasets.
 
-3- En Pyhton, estan las diferentes Graficas para entender su distribucion y las diferentes predicciones realizadas.
+3- En Pyhton, estan las diferentes Graficas para entender su distribucion y en donde se realiza alguna transformacion y las diferentes predicciones realizadas.
 
