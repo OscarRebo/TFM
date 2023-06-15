@@ -17,3 +17,5 @@ Los pasos a seguir son:
 3- Carpeta Folium y Sweetviz, mapas creados con Folium en Jupyter Notebook y el reporte generado con Sweetviz.
 
 4- En Pyhton, estan las diferentes Graficas para entender su distribucion y en donde se realiza alguna transformacion por lo que antes de realizar ningun tipo de prediccion, es necesario ejecutar Graficas22.py.
+
+5- A continuacion se pueden realizar las diferentes predicciones.
