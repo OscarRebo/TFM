@@ -14,5 +14,6 @@ Los pasos a seguir son:
 
 2- Carpeta Pyhton-> ProcesamientoDatos, alli se encuentran los diferentes procedimentos de limpieza realizados y la union de los 8 datasets.
 
-3- En Pyhton, estan las diferentes Graficas para entender su distribucion y en donde se realiza alguna transformacion y las diferentes predicciones realizadas.
+3- Carpeta Folium y Sweetviz, mapas creados con Folium en Jupyter Notebook y el reporte generado con Sweetviz.
 
+4- En Pyhton, estan las diferentes Graficas para entender su distribucion y en donde se realiza alguna transformacion y las diferentes predicciones realizadas.
