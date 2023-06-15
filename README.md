@@ -1,10 +1,10 @@
-Predicción Inteligente de Delitos mediante el uso de Múltiples Datasets.
+             Predicción Inteligente de Delitos mediante el uso de Múltiples Datasets.
 
-Universidad Isabel I. 
+                                Universidad Isabel I. 
 
-FACULTAD DE CIENCIAS Y TECNOLOGÍA.
+                        FACULTAD DE CIENCIAS Y TECNOLOGÍA.
 
-MÁSTER OFICIAL EN ANÁLISIS INTELIGENTE DE DATOS MASIVOS (BIG DATA)
+                MÁSTER OFICIAL EN ANÁLISIS INTELIGENTE DE DATOS MASIVOS (BIG DATA)
 
 Los programas se han ejecuta en una ruta especifica por lo que para su correcto funcionamiento hay que cambiarla.
 
