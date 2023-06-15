@@ -4,7 +4,7 @@
 
                         FACULTAD DE CIENCIAS Y TECNOLOGÍA.
 
-                MÁSTER OFICIAL EN ANÁLISIS INTELIGENTE DE DATOS MASIVOS (BIG DATA)
+            MÁSTER OFICIAL EN ANÁLISIS INTELIGENTE DE DATOS MASIVOS (BIG DATA)
 
 Los programas se han ejecutado en una ruta especifica por lo que para su correcto funcionamiento hay que cambiarla.
 
